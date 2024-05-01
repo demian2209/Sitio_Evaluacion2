@@ -1,0 +1,17 @@
+footer{
+    padding-bottom: 10px;
+    margin-top: 75px;
+    padding-left: 800px;
+    background-color: #E1DEDE;
+    border: solid;
+}
+
+.col{
+    margin-right: 150px;
+}
+
+
+nav  h5:hover{
+    text-decoration: underline;
+    color: #00A6FF;
+}
