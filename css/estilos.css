@@ -42,3 +42,7 @@ div .card-img{
   .btn-container {
     text-align: center;
   }
+
+.row{
+  margin-right: 100px;
+}
